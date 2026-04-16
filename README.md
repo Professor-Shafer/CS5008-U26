@@ -1,2 +1,1 @@
-# CS5008-U26
-CS 5008 Summer 2026
+# CS-5008 Summer 2026
